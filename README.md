@@ -26,7 +26,7 @@
               1.由于并没有真正投入市场，没有将功能真正的面向用户<br>
 
 
-'打靶效果'<br>
+'使用效果'<br>
 =
 https://www.bilibili.com/video/BV1NEbjzjEzH/?spm_id_from=333.1365.list.card_archive.click&vd_source=7d3a4ea24bec7549ce4f1cb9b037001c<br>
 
