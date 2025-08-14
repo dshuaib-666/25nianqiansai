@@ -1,0 +1,13 @@
+123\lv_lru.o: LVGL\src\misc\lv_lru.c
+123\lv_lru.o: LVGL\src\misc\lv_lru.h
+123\lv_lru.o: LVGL\src\misc\../lv_conf_internal.h
+123\lv_lru.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+123\lv_lru.o: LVGL\src\misc\../lv_conf_kconfig.h
+123\lv_lru.o: ./LVGL/src/core/../../lv_conf.h
+123\lv_lru.o: LVGL\src\misc\lv_types.h
+123\lv_lru.o: D:\keil\ARM\ARMCC\Bin\..\include\stddef.h
+123\lv_lru.o: LVGL\src\misc\lv_math.h
+123\lv_lru.o: LVGL\src\misc\lv_mem.h
+123\lv_lru.o: D:\keil\ARM\ARMCC\Bin\..\include\string.h
+123\lv_lru.o: LVGL\src\misc\lv_assert.h
+123\lv_lru.o: LVGL\src\misc\lv_log.h

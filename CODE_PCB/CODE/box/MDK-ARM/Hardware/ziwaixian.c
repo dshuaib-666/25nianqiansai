@@ -1,0 +1,12 @@
+#include "all.h"
+#include "main.h"
+
+void ZIWAIXIAN_ON(void)
+{ HAL_GPIO_WritePin(GPIOA,GPIO_PIN_11,GPIO_PIN_SET);
+HAL_GPIO_WritePin(GPIOA,GPIO_PIN_12,GPIO_PIN_SET);}
+
+   
+	
+void ZIWAIXIAN_OFF(void)
+{ HAL_GPIO_WritePin(GPIOA,GPIO_PIN_11,GPIO_PIN_RESET);
+HAL_GPIO_WritePin(GPIOA,GPIO_PIN_12,GPIO_PIN_RESET);}

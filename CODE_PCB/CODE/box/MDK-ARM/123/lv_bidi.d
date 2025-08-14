@@ -1,0 +1,17 @@
+123\lv_bidi.o: LVGL\src\misc\lv_bidi.c
+123\lv_bidi.o: D:\keil\ARM\ARMCC\Bin\..\include\stddef.h
+123\lv_bidi.o: LVGL\src\misc\lv_bidi.h
+123\lv_bidi.o: LVGL\src\misc\../lv_conf_internal.h
+123\lv_bidi.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+123\lv_bidi.o: LVGL\src\misc\../lv_conf_kconfig.h
+123\lv_bidi.o: ./LVGL/src/core/../../lv_conf.h
+123\lv_bidi.o: D:\keil\ARM\ARMCC\Bin\..\include\stdbool.h
+123\lv_bidi.o: LVGL\src\misc\lv_txt.h
+123\lv_bidi.o: D:\keil\ARM\ARMCC\Bin\..\include\stdarg.h
+123\lv_bidi.o: LVGL\src\misc\lv_area.h
+123\lv_bidi.o: LVGL\src\misc\../font/lv_font.h
+123\lv_bidi.o: LVGL\src\misc\../font/lv_symbol_def.h
+123\lv_bidi.o: LVGL\src\misc\lv_printf.h
+123\lv_bidi.o: LVGL\src\misc\lv_types.h
+123\lv_bidi.o: LVGL\src\misc\../misc/lv_mem.h
+123\lv_bidi.o: D:\keil\ARM\ARMCC\Bin\..\include\string.h
